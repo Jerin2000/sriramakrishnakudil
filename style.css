@@ -587,7 +587,24 @@ a:focus,
 	margin-bottom: 15px;
 }
 
+.mu-about-left ul li h3 {
+	border-bottom: 3px solid #e5e5e5;
+	color: #323232;
+	font-size: 20px;
+	display: inline-block;
+	padding-bottom: 5px;
+	margin-bottom: 15px;
+}
+.mu-about-left ul li {
+	list-style: none;
+	float: left;
+	margin-bottom: 25px;
+}
+
 .mu-about-right p {
+	font-size: 14px;
+}
+.mu-about-left p {
 	font-size: 14px;
 }
 
@@ -1624,7 +1641,7 @@ a:focus,
 
 
 #mu-page-header {
-	background-image: url(assets/images/page-header-bg.jpg);
+	background-image: url(assets/images/Kudil_images/Original-Students-with-Karuppiah.jpg);
 	background-position: center center;
 	background-size: cover;
 	display: inline;
